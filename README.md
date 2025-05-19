@@ -25,7 +25,7 @@ An ongoing project focusing on developing a seamless and user-friendly shopping 
 
 ## Contact
 - **Phone**: +92 3152462949
-- **Email**: [a.rabdulrafay@gmail.com](mailto:a.rabdulrafay@gmail.com)
+- **Email**: [a.rabdulrafay@gmail.com](mailto:a.rabdulrafy@gmail.com)
 - **LinkedIn**: [Abdul Rafay LinkedIn](https://www.linkedin.com/in/abdul-rafay-18bab5356/)
 - **GitHub**: [Abdul Rafay GitHub](https://github.com/Abdul-Rafay2005)
 
